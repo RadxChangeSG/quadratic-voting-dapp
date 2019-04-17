@@ -1,0 +1,3 @@
+[submodule "SolidityFlattery"]
+	path = SolidityFlattery
+	url = https://github.com/akombalabs/SolidityFlattery
