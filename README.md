@@ -1,4 +1,7 @@
 # Quadratic Voting Dapp
+- UNIX time converter: https://www.epochconverter.com 
+- Ropsten contract: https://ropsten.etherscan.io/address/0x66a7f62d9b29f7dc267163ee39b6da4d47915bf5#code
+
 
 # Dev Setup and Usage
 #### If you do not have truffle and ganache-cli installed already, run:
