@@ -1,6 +1,7 @@
 # Quadratic Voting Dapp
 - UNIX time converter: https://www.epochconverter.com 
-- Ropsten contract: https://ropsten.etherscan.io/address/0x66a7f62d9b29f7dc267163ee39b6da4d47915bf5#code
+- hex to text converter: http://www.unit-conversion.info/texttools/hexadecimal/
+- Ropsten contract: https://ropsten.etherscan.io/address/0x66a7f62d9b29f7dc267163ee39b6da4d47915bf5#code, or https://oneclickdapp.com/vienna-parking/
 
 
 # Dev Setup and Usage
